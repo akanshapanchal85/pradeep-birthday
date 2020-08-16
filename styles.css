@@ -1,0 +1,92 @@
+body {
+  background-image: linear-gradient(rgba(214, 94, 94, 0.5), rgba(194, 26, 144, 0.5)),url(../images/gandr-1597584313246.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  text-align: center;
+  /* background-color: darkred */
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color:#fff;
+  font-family: "Arvo", cursive;
+  /* text-shadow: 3px 0 #DA0463; */
+
+}
+
+footer {
+  color: #fff;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+/* .image{
+  opacity: 0.8;
+} */
+
+.P {
+  background-image: url('images/heart (2).png');
+}
+
+.R {
+  background-image: url('images/kiss.png');
+ 
+}
+
+.A {
+  background-image: url('images/newlyweds.png');
+}
+
+.D {
+  background-image: url('images/heart (3).png');
+}
+
+.E{
+  background-image: url('images/wedding-rings.png');
+}
+/* 
+.E {
+  background-image: url('images/tom3.png');
+} */
+/* 
+. .P{
+  background-image: url('images/tom4.png');
+  
+} */
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #1b262c;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  /* background-color: white; */
+}
